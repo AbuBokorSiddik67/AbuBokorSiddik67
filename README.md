@@ -5,7 +5,7 @@
 # Hi there, I'm Abu Bokor Siddik! 👋
 
 ### 👨‍💻 About Me
-I'm a passionate Full-Stack Web Developer with a keen interest in building attractive and functional websites. I'm currently focused on exploring new technologies and solving real-world problems. I love to take on new challenges and continuously improve my skills.
+I'm a passionate MERN-Stack Web Developer with a keen interest in building attractive and functional websites. I'm currently focused on exploring new technologies and solving real-world problems. I love to take on new challenges and continuously improve my skills.
 
 ### 🚀 My Current Activities
 * 🔭 I’m currently working on a Project_Name: Institute Management System.
