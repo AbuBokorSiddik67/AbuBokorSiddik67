@@ -2,7 +2,7 @@
   <img src="https://i.ibb.co.com/npjDwhM/Git-Hub-Cover-Y.png" alt="[Your Name] - GitHub Profile Banner" width="100%">
 </div>
 
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Abu Bokor Siddik! 👋
 
 ### 👨‍💻 About Me
 I'm a passionate Full-Stack Web Developer with a keen interest in building attractive and functional websites. I'm currently focused on exploring new technologies and solving real-world problems. I love to take on new challenges and continuously improve my skills.
