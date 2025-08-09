@@ -32,12 +32,12 @@ I'm a passionate Full-Stack Web Developer with a keen interest in building attra
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=dark" alt="Your GitHub Stats" width="400px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=dark" alt="Your GitHub Streak Stats" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AbuBokorSiddik67&show_icons=true&theme=dark" alt="Your GitHub Stats" width="400px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbuBokorSiddik67&theme=dark" alt="Your GitHub Streak Stats" width="400px"/>
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=dark" alt="Your Top Languages" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbuBokorSiddik67&layout=compact&theme=dark" alt="Your Top Languages" width="400px"/>
 </div>
 
 ---
