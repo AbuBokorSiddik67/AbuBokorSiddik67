@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co.com/0RLg0rGL/Abu-Bokor-siddik.png" alt="[Your Name] - GitHub Profile Banner" width="100%">
+  <img src="https://i.ibb.co.com/0RwqBc9C/Abu-Bokor-siddik-1.png" alt="[Your Name] - GitHub Profile Banner" width="100%">
 </div>
 
 # Hi there, I'm Abu Bokor Siddik! 👋
